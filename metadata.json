@@ -1,0 +1,6 @@
+{
+  "name": "FinanzasPro - Control de Gastos y Presupuesto",
+  "description": "Aplicación de finanzas personales con gráficos detallados, categorías de gastos personalizables, presupuestos mensuales y control de ingresos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
